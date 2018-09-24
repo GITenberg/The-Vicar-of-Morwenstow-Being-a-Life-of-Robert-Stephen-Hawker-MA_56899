@@ -1,5 +1,8 @@
 _repo: The-Vicar-of-Morwenstow-Being-a-Life-of-Robert-Stephen-Hawker-MA_56899
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 56899-h/images/cover.jpg
 creator:
   author:
     agent_name: Baring-Gould, S. (Sabine)
@@ -13,6 +16,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/1766
     wikipedia: http://en.wikipedia.org/wiki/Sabine_Baring-Gould
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/56899#The-Vicar-of-Morwenstow-Being-a-Life-of-Robert-Stephen-Hawker-MA
 gutenberg_issued: '2018-04-02'
 gutenberg_type: Text
 identifiers:
